@@ -1,1 +1,4 @@
-# Meu estudo da documentação JavaScript, em https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+# Meu estudo da documentação JavaScript
+(https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+#1 -> 'galeria' de imagens
